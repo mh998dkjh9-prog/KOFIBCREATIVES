@@ -165,7 +165,7 @@ document.querySelector(".whatsapp-order-btn").addEventListener("click", function
     message += `💰 *TOTAL: GH₵${total}*\n\n`;
     message += "Please confirm this order.";
 
-    let whatsappNumber = "2332000702397";
+    let whatsappNumber = "233200702397";
 
     let whatsappURL =
         "https://wa.me/" +
